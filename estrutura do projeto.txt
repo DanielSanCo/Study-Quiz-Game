@@ -1,0 +1,24 @@
+1 - SISTEMA DE LOGIN
+    O usuario terá um sistema de login com nome de usuario e senha;
+    Precisa-se criar um banco de dados para armazenar os usuarios;
+    Precisa-se criar um sistema de segurança de Senha;
+        Penso em fazer o mesmo que fora feito no curso 'Dev Aprender', enviando a senha por e-mail;
+    O usuario terá informações armazenadas na conta dele;
+        Essas informações são as pessoais:
+            Id;
+            Username;
+            Password;
+        De jogo:
+            Pontos;
+            Rank;
+            Classe;
+            Nivel;
+            Conquistas;
+        Baseado nos dados de jogo armazenados, o usuario ganhará vantagens;
+2 - SISTEMA DE CADASTRO
+3 - LOJA DO jogo
+    Na loja terá varios itens e possibilidades de mudar a aparencia do jogo;
+        Dentre esses itens tem:
+            Background Color;
+                Para mudar o tema do site;
+                

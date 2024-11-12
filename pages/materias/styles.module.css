@@ -1,0 +1,22 @@
+.body {
+    height: 70vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.eachMat {
+    width: 120px;
+    height: 120px;
+    box-shadow: 1px 1px 5px black;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    transition: 0.5s all ease-in-out;
+    border-radius: 4px;
+}
+.eachMat:hover {
+    scale: 1.1;
+}
